@@ -1,1 +1,1 @@
-# vue2-analyse
+# vue2-analysis
